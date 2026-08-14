@@ -8,4 +8,3 @@ class Solution:
 sol=Solution()
 arr=[1,2,3,4,5]
 print(sol.leftrotate(arr))
-        
