@@ -5,5 +5,5 @@ class Sorting:
                     return False
         return True
 c=Sorting()
-arr=[1,2,3,4]
+arr=[1,2,3,4,5,6]
 print(c.checks(arr))
