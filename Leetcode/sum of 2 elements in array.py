@@ -5,6 +5,6 @@ class Solution:
                 if nums[i]+nums[j]==target:
                     return[i,j]
 s1=Solution()
-arr=[1,2,3,4,5]
-target=5
+arr=[1,2,3,4,5,6]
+target=7
 print(s1.twoSum(arr,target))
