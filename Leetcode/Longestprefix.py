@@ -10,5 +10,5 @@ class Solution:
             result = result + strs[0][i]
         return result
 sol=Solution()
-arr=["flower","floor","fly"]
+arr=["flower","floor","fly","flame"]
 print(sol.longestCommonPrefix(arr))
