@@ -1,0 +1,9 @@
+a=10
+print(a)
+print(type(a))
+b=11.8
+print(b)
+print(type(b))
+c="tikku"
+print(c)
+print(type(c))
