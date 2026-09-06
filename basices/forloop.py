@@ -11,7 +11,7 @@ for i in "tikku":
 for i in "10":
     print(i)
 for i in "rama":
-    print(i)
+    print(i,end="")
 for i in range(100):
     print(i)
 for i in range(1,100):
