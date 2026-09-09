@@ -1,0 +1,10 @@
+str1="Manu"
+str2="Sanju"
+str3="tanu"
+str4="Sanju"
+str5="manu"
+print(id(str2))
+print(id(str4))
+print(id(str1))
+print(id(str5))
+print(id(str3))
