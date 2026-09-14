@@ -8,3 +8,4 @@ for i in str:
     if count>1 and i not in res:
         res+=i
         print(i)
+<--rmg-->
