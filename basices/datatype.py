@@ -7,3 +7,4 @@ print(type(b))
 c="tikku"
 print(c)
 print(type(c))
+<--all variables are objects-->
