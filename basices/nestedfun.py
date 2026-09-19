@@ -1,6 +1,6 @@
 def outer():
-    print("Inside outer")
+    print("Inside outer") #nonlocal variable 
     def inner():
-        print("Inside inner")
+        print("Inside inner")#local variables 
     inner()
 outer()
