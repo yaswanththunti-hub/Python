@@ -7,3 +7,4 @@ print(id(a))
 print(id(b))
 print(id(c))
 print(id(d))
+#id show address of the variable 
