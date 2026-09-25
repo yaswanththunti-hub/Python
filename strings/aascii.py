@@ -1,4 +1,4 @@
-#ASCII A-65 to z-90 and A-97 to Z-122 space(32)
+#ASCII A-65 to z-90 and A-97 to Z-122 and space(32)
 char=input("Enter a char :")
 ascii=ord(char)
 print(ascii)
