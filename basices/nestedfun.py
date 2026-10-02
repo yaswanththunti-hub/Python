@@ -1,3 +1,4 @@
+#a list inside another list
 def outer():
     print("Inside outer") #nonlocal variable 
     def inner():
