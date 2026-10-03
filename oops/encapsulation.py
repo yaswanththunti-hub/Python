@@ -23,6 +23,7 @@ b1.setter(-99)
 res2=b1.getter()
 print(res2)
 
+#normal()
 class Person:
     def __init__(self):
         self.__names=""
@@ -38,6 +39,7 @@ p1.setter("Yashu")
 res1=p1.getter()
 print(res1)
 
+#property function
 class Person:
     def __init__(self):
         self.__name=""
