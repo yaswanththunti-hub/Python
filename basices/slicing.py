@@ -1,3 +1,4 @@
+start:stop:step
 str="RajaRamMohanRoy"
 print(str)
 print(len(str))
