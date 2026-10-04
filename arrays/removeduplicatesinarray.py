@@ -6,5 +6,5 @@ class Solution:
                 new.append(i)
         return new
 sol=Solution()
-arr=[1,3,4,5,6,1,2,3]
+arr=[1,3,4,5,6,1,4,2,3]
 print(sol.removedduplicate(arr))
