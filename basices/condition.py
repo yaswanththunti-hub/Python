@@ -7,4 +7,4 @@ elif a==b:
 elif a<b:
     print("first num is less than second num")
 else:
-    print("invalid")
+    print("invalid num")
