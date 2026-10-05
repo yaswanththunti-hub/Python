@@ -52,3 +52,18 @@ p1=Person()
 p1.getset="Rahul"
 res=p1.getset
 print(res)
+
+#@property
+class Book:
+    def __init__(self):
+        self.name=""
+    @property
+    def display(self):
+        return self.__name
+    @display.setter
+    def display(self,val):
+        self.__name=val
+p1=Book()
+p1.display="Rahul"
+res=p1.display
+print(res)
