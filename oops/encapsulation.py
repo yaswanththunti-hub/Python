@@ -67,3 +67,16 @@ p1=Book()
 p1.display="Rahul"
 res=p1.display
 print(res)
+
+#converting public method into private
+
+class sheep:
+    def __init__(self):
+        self.name="Tikku"
+    def __eat(self):
+        print("Tikku is eating grass")
+    def helper(self):
+        self.__eat()
+s1=sheep()
+print(s1.name)
+s1.helper()
