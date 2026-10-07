@@ -8,3 +8,4 @@ class child(Parent):
 c=child()
 print(c.b)
 print(c.a)
+#we can only call the child class
