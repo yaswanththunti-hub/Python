@@ -24,6 +24,8 @@ res2=b1.getter()
 print(res2)
 
 #normal()
+#call the methods
+
 class Person:
     def __init__(self):
         self.__names=""
@@ -40,6 +42,7 @@ res1=p1.getter()
 print(res1)
 
 #property function
+#assign the value
 class Person:
     def __init__(self):
         self.__name=""
@@ -54,6 +57,7 @@ res=p1.getset
 print(res)
 
 #@property
+#assign the value
 class Book:
     def __init__(self):
         self.name=""
