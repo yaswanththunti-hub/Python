@@ -1,3 +1,4 @@
+#only child class will call
 class Parent:
     def __init__(self):
         self.a=10
