@@ -1,5 +1,5 @@
 class Student:
-   def __init__(self,name,age,usn):
+   def __init__(self,name,age,usn): #parameters
         self.sname=name
         self.sage=age
         self.susn=usn
