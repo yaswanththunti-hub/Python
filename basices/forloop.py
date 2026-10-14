@@ -1,3 +1,4 @@
+#iterate the values
 for i in 1,2,3,4:
     print(i)
 for i in 10,11.8,"rahul":
